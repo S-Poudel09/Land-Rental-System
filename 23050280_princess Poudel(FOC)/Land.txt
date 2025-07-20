@@ -1,0 +1,3 @@
+ Lumbini, North, 4, 50000, Not available
+ Pokhara, East, 5, 60000, Not available
+ Lalitpur, South, 10, 100000, Not available
